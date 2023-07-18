@@ -11,9 +11,11 @@
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="New.vi" Type="VI" URL="../API/New.vi"/>
 		<Item Name="Write History.vim" Type="VI" URL="../API/Write History.vim"/>
+		<Item Name="Write Latest Value.vim" Type="VI" URL="../API/Write Latest Value.vim"/>
 		<Item Name="Read History.vim" Type="VI" URL="../API/Read History.vim"/>
 		<Item Name="Read Latest Value.vim" Type="VI" URL="../API/Read Latest Value.vim"/>
 		<Item Name="Destroy.vi" Type="VI" URL="../API/Destroy.vi"/>
+		<Item Name="New from Type.vim" Type="VI" URL="../API/New from Type.vim"/>
 	</Item>
 	<Item Name="SubVIs" Type="Folder">
 		<Item Name="Crop" Type="Folder">
@@ -46,6 +48,7 @@
 			<Item Name="datatype byte size.vi" Type="VI" URL="../SubVIs/datatype byte size.vi"/>
 			<Item Name="LV type to enum.vim" Type="VI" URL="../SubVIs/LV type to enum.vim"/>
 			<Item Name="Read Array Dimension Count.vim" Type="VI" URL="../SubVIs/Read Array Dimension Count.vim"/>
+			<Item Name="Read LV type size.vim" Type="VI" URL="../SubVIs/Read LV type size.vim"/>
 		</Item>
 	</Item>
 	<Item Name="Demo.vi" Type="VI" URL="../Demo.vi"/>
