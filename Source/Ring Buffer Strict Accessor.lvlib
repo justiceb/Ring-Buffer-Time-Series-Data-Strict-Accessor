@@ -17,7 +17,7 @@
 	</Item>
 	<Item Name="SubVIs" Type="Folder">
 		<Item Name="Crop" Type="Folder">
-			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 			<Item Name="Search for newest time to keep.vi" Type="VI" URL="../SubVIs/Search for newest time to keep.vi"/>
 			<Item Name="Search for oldest time to keep.vi" Type="VI" URL="../SubVIs/Search for oldest time to keep.vi"/>
 			<Item Name="Search for time to keep.vi" Type="VI" URL="../SubVIs/Search for time to keep.vi"/>
@@ -28,7 +28,7 @@
 			<Item Name="Read Op Validity.vim" Type="VI" URL="../SubVIs/Read Op Validity.vim"/>
 		</Item>
 		<Item Name="Typecast" Type="Folder">
-			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 			<Item Name="Coerce ByteArray to DataType.vim" Type="VI" URL="../SubVIs/Coerce ByteArray to DataType.vim"/>
 			<Item Name="Coerce DataType to ByteArray.vim" Type="VI" URL="../SubVIs/Coerce DataType to ByteArray.vim"/>
 			<Item Name="TypeCast as MoveBlock.vim" Type="VI" URL="../SubVIs/TypeCast as MoveBlock.vim"/>
