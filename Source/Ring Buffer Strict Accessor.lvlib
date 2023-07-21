@@ -11,12 +11,13 @@
 	<Item Name="API V2" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="New.vi" Type="VI" URL="../API/New.vi"/>
+		<Item Name="New from Type.vim" Type="VI" URL="../API/New from Type.vim"/>
 		<Item Name="Write History.vim" Type="VI" URL="../API/Write History.vim"/>
 		<Item Name="Write Latest Value.vim" Type="VI" URL="../API/Write Latest Value.vim"/>
 		<Item Name="Read History.vim" Type="VI" URL="../API/Read History.vim"/>
 		<Item Name="Read Latest Value.vim" Type="VI" URL="../API/Read Latest Value.vim"/>
+		<Item Name="Read Latest Value and Format into String.vim" Type="VI" URL="../API/Read Latest Value and Format into String.vim"/>
 		<Item Name="Destroy.vi" Type="VI" URL="../API/Destroy.vi"/>
-		<Item Name="New from Type.vim" Type="VI" URL="../API/New from Type.vim"/>
 	</Item>
 	<Item Name="SubVIs" Type="Folder">
 		<Item Name="Crop" Type="Folder">
@@ -37,7 +38,7 @@
 			<Item Name="TypeCast as MoveBlock.vim" Type="VI" URL="../SubVIs/TypeCast as MoveBlock.vim"/>
 			<Item Name="Typecast from ByreArray with endianess.vim" Type="VI" URL="../SubVIs/Typecast from ByreArray with endianess.vim"/>
 			<Item Name="Typecast to ByteArray with endianess.vim" Type="VI" URL="../SubVIs/Typecast to ByteArray with endianess.vim"/>
-			<Item Name="Typecast Value and Format to String.vi" Type="VI" URL="../SubVIs/Typecast Value and Format to String.vi"/>
+			<Item Name="Typecast Value and Format to String.vim" Type="VI" URL="../SubVIs/Typecast Value and Format to String.vim"/>
 		</Item>
 		<Item Name="Typedefs" Type="Folder">
 			<Item Name="DataType.ctl" Type="VI" URL="../SubVIs/DataType.ctl"/>
