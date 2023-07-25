@@ -16,6 +16,7 @@
 		<Item Name="Write Latest Value.vim" Type="VI" URL="../API/Write Latest Value.vim"/>
 		<Item Name="Read History.vim" Type="VI" URL="../API/Read History.vim"/>
 		<Item Name="Read Latest Value.vim" Type="VI" URL="../API/Read Latest Value.vim"/>
+		<Item Name="Read Latest Value as Variant.vi" Type="VI" URL="../API/Read Latest Value as Variant.vi"/>
 		<Item Name="Read Latest Value and Format into String.vim" Type="VI" URL="../API/Read Latest Value and Format into String.vim"/>
 		<Item Name="Destroy.vi" Type="VI" URL="../API/Destroy.vi"/>
 	</Item>
@@ -39,6 +40,7 @@
 			<Item Name="Typecast from ByreArray with endianess.vim" Type="VI" URL="../SubVIs/Typecast from ByreArray with endianess.vim"/>
 			<Item Name="Typecast to ByteArray with endianess.vim" Type="VI" URL="../SubVIs/Typecast to ByteArray with endianess.vim"/>
 			<Item Name="Typecast Value and Format to String.vim" Type="VI" URL="../SubVIs/Typecast Value and Format to String.vim"/>
+			<Item Name="ByteArray to Variant.vi" Type="VI" URL="../SubVIs/ByteArray to Variant.vi"/>
 		</Item>
 		<Item Name="Typedefs" Type="Folder">
 			<Item Name="DataType.ctl" Type="VI" URL="../SubVIs/DataType.ctl"/>

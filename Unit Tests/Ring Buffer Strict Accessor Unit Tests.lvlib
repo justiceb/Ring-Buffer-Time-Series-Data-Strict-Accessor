@@ -13,6 +13,7 @@
 		<Item Name="1D history.vi" Type="VI" URL="../All Tests/1D history.vi"/>
 		<Item Name="2D history.vi" Type="VI" URL="../All Tests/2D history.vi"/>
 		<Item Name="scalar history.vi" Type="VI" URL="../All Tests/scalar history.vi"/>
+		<Item Name="Variant Read.vi" Type="VI" URL="../All Tests/Variant Read.vi"/>
 	</Item>
 	<Item Name="SubVIs" Type="Folder">
 		<Item Name="1D history any type min max.vim" Type="VI" URL="../SubVIs/1D history any type min max.vim"/>
