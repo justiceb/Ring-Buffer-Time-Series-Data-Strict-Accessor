@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2023-07-17 16:38:05" Modified_Date="2023-07-25 12:21:38" Creator="bjustice" Comments="" ID="50c4cbdafc92c3da2f437d373a6ad1f6">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2023-07-17 16:38:05" Modified_Date="2023-07-25 17:11:49" Creator="bjustice" Comments="" ID="5902426ffe97e512de502df6a5e5d182">
   <Library_General_Settings>
     <Package_File_Name>bjustice_lib_Ring_Buffer_for_Time_Series_Data_Strict_Accessor</Package_File_Name>
-    <Library_Version>1.2.0.15</Library_Version>
+    <Library_Version>1.2.1.16</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
     <Library_Output_Folder>Builds</Library_Output_Folder>
@@ -385,7 +385,7 @@
         <Path>Source\API\Read Latest Value as Variant.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8D7AC99C0144469FDD5EEB58E80B0297</GUID>
+      <GUID>1E942C842B15BE6AC9A3C74F98422962</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -518,7 +518,7 @@
         <Path>Source\SubVIs\Read LV type size.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7B70921C7B936C0284DDE02BC1D88062</GUID>
+      <GUID>BB149DD78A9A8B465BA227C1624A20BA</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -623,7 +623,7 @@
         <Path>Source\SubVIs\Typecast from ByreArray with endianess.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>16BC26BC4C5D7D1051AC093B73DB7797</GUID>
+      <GUID>4B6380F0703963A24CD65423B8039D3C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -728,7 +728,7 @@
         <Path>Source\Unix time epoch\Nanoseconds_to_seconds.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DDB97648F3371F5762B63EE20D6897A1</GUID>
+      <GUID>E5616A494A8EFDB261586F8BE7257188</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
