@@ -16,6 +16,7 @@
 		<Item Name="Write Latest Value.vim" Type="VI" URL="../API/Write Latest Value.vim"/>
 		<Item Name="Read History.vim" Type="VI" URL="../API/Read History.vim"/>
 		<Item Name="Read Latest Value.vim" Type="VI" URL="../API/Read Latest Value.vim"/>
+		<Item Name="Read Latest 2 Values.vim" Type="VI" URL="../API/Read Latest 2 Values.vim"/>
 		<Item Name="Read Latest Value as Variant.vi" Type="VI" URL="../API/Read Latest Value as Variant.vi"/>
 		<Item Name="Read Latest Value and Format into String.vim" Type="VI" URL="../API/Read Latest Value and Format into String.vim"/>
 		<Item Name="Destroy.vi" Type="VI" URL="../API/Destroy.vi"/>
@@ -28,7 +29,7 @@
 			<Item Name="Search for time to keep.vi" Type="VI" URL="../SubVIs/Search for time to keep.vi"/>
 		</Item>
 		<Item Name="Private" Type="Folder">
-			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 			<Item Name="Index ByteArray.vi" Type="VI" URL="../SubVIs/Index ByteArray.vi"/>
 			<Item Name="Read Op Validity.vim" Type="VI" URL="../SubVIs/Read Op Validity.vim"/>
 		</Item>
