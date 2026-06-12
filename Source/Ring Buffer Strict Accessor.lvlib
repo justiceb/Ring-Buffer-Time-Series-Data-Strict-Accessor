@@ -32,6 +32,7 @@
 			<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 			<Item Name="Index ByteArray.vi" Type="VI" URL="../SubVIs/Index ByteArray.vi"/>
 			<Item Name="Read Op Validity.vim" Type="VI" URL="../SubVIs/Read Op Validity.vim"/>
+			<Item Name="error if empty buffer.vi" Type="VI" URL="../SubVIs/error if empty buffer.vi"/>
 		</Item>
 		<Item Name="Typecast" Type="Folder">
 			<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
